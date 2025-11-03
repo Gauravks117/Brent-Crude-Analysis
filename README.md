@@ -4,7 +4,7 @@ This project analyzes the historical Brent Crude Oil prices from 1987 to 2022, u
 
 ## Files
 
-- `oil price analysis.ipynb"`: Jupyter Notebook with the full analysis and visualizations.
+- `oil price analysis.ipynb`: Jupyter Notebook with the full analysis and visualizations.
 - `BrentOilPrices.csv`: The dataset used for analysis.
 - `Crude_Oil_Price_Trend_(1987–2022).png`,`Oil_Price_Trend_(1987-2022).png`,`Avg_Oil_Price_by_Decade.png`,`Oil_Pct_Price_Change_Trend (1987-2022).png`, `Box_Plot_of_Oil_Prices_(1987-2022).png`, etc.: Visualization outputs.
 
